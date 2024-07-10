@@ -1,0 +1,11 @@
+/*
+  InfoPlist.strings
+  Runner
+
+  Created by zentryMacSh on 2022/12/01.
+  
+*/
+
+"NSCameraUsageDescription"       = "Se utiliza para el reconocimiento de códigos QR.";
+"NSMicrophoneUsageDescription"   = "Se utiliza para el reconocimiento de códigos QR.";
+"NSPhotoLibraryUsageDescription" = "Se utiliza con el fin de adjuntar una licencia de veterinario y un certificado de registro comercial para el registro de la autoridad del hospital de animales o en la pantalla de consulta.";

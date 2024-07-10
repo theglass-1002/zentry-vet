@@ -1,0 +1,558 @@
+{
+  "_id": "65d7174940aa00ee35197062",
+  "patientId": 434,
+  "weight": 55.5,
+  "age": 0,
+  "sex": 0,
+  "remarks": "NONE",
+  "veterinarianId": 537,
+  "veterinarianName": "zentry",
+  "technicianId": null,
+  "technicianName": "NONE",
+  "cpr": true,
+  "monitoringRecords": [
+    {
+      "dolittleMacAddress": "E0:82:51:C4:26:B7",
+      "firmwareVersion": "7.11.8",
+      "interval": 15,
+      "startedAt": "2024-02-22T10:15:51.308Z",
+      "stoppedAt": "2024-02-22T10:15:51.308Z",
+      "hr": 0,
+      "rr": 0
+    },
+    {
+      "dolittleMacAddress": "E0:82:51:C4:26:B7",
+      "firmwareVersion": "7.11.8",
+      "interval": 15,
+      "startedAt": "2024-02-22T11:22:37.965Z",
+      "stoppedAt": "2024-02-22T11:22:37.965Z",
+      "hr": 64,
+      "rr": 27
+    },
+    {
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "firmwareVersion": "7.11.8",
+      "interval": 15,
+      "startedAt": "2024-02-26T05:49:43.421Z",
+      "stoppedAt": "2024-02-26T05:49:43.421Z",
+      "hr": 0,
+      "rr": 0
+    },
+    {
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "firmwareVersion": "7.11.8",
+      "interval": 15,
+      "startedAt": "2024-02-26T05:49:58.418Z",
+      "stoppedAt": "2024-02-26T05:49:58.418Z",
+      "hr": 0,
+      "rr": 0
+    },
+    {
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "firmwareVersion": "7.11.8",
+      "interval": 15,
+      "startedAt": "2024-02-26T05:50:13.419Z",
+      "stoppedAt": "2024-02-26T05:50:13.419Z",
+      "hr": 60,
+      "rr": 80
+    },
+    {
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "firmwareVersion": "7.11.8",
+      "interval": 15,
+      "startedAt": "2024-02-26T05:50:28.431Z",
+      "stoppedAt": "2024-02-26T05:50:28.431Z",
+      "hr": 75,
+      "rr": 43
+    },
+    {
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "firmwareVersion": "7.11.8",
+      "interval": 15,
+      "startedAt": "2024-02-26T05:50:43.430Z",
+      "stoppedAt": "2024-02-26T05:50:43.430Z",
+      "hr": 85,
+      "rr": 49
+    },
+    {
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "firmwareVersion": "7.11.8",
+      "interval": 15,
+      "startedAt": "2024-02-26T05:57:55.402Z",
+      "stoppedAt": "2024-02-26T05:57:55.402Z",
+      "hr": 69,
+      "rr": 38
+    },
+    {
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "firmwareVersion": "7.11.8",
+      "interval": 15,
+      "startedAt": "2024-02-26T05:58:10.399Z",
+      "stoppedAt": "2024-02-26T05:58:10.399Z",
+      "hr": 58,
+      "rr": 42
+    },
+    {
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "firmwareVersion": "7.11.8",
+      "interval": 15,
+      "startedAt": "2024-02-26T05:58:25.403Z",
+      "stoppedAt": "2024-02-26T05:58:25.403Z",
+      "hr": 67,
+      "rr": 34
+    },
+    {
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "firmwareVersion": "7.11.8",
+      "interval": 15,
+      "startedAt": "2024-02-26T05:58:59.508Z",
+      "stoppedAt": "2024-02-26T05:58:59.508Z",
+      "hr": 73,
+      "rr": 28
+    },
+    {
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "firmwareVersion": "7.11.8",
+      "interval": 15,
+      "startedAt": "2024-02-26T05:59:14.517Z",
+      "stoppedAt": "2024-02-26T05:59:14.517Z",
+      "hr": 44,
+      "rr": 28
+    },
+    {
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "firmwareVersion": "7.11.8",
+      "interval": 15,
+      "startedAt": "2024-02-26T05:59:29.515Z",
+      "stoppedAt": "2024-02-26T05:59:29.515Z",
+      "hr": 67,
+      "rr": 11
+    },
+    {
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "firmwareVersion": "7.11.8",
+      "interval": 15,
+      "startedAt": "2024-02-26T05:59:44.521Z",
+      "stoppedAt": "2024-02-26T05:59:44.521Z",
+      "hr": 50,
+      "rr": 29
+    },
+    {
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "firmwareVersion": "7.11.8",
+      "interval": 15,
+      "startedAt": "2024-02-26T06:04:39.720Z",
+      "stoppedAt": "2024-02-26T06:04:39.720Z",
+      "hr": 38,
+      "rr": 46
+    },
+    {
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "firmwareVersion": "7.11.8",
+      "interval": 15,
+      "startedAt": "2024-02-26T06:04:54.725Z",
+      "stoppedAt": "2024-02-26T06:04:54.725Z",
+      "hr": 28,
+      "rr": 12
+    },
+    {
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "firmwareVersion": "7.11.8",
+      "interval": 15,
+      "startedAt": "2024-02-26T06:05:09.724Z",
+      "stoppedAt": "2024-02-26T06:05:09.724Z",
+      "hr": 58,
+      "rr": 43
+    },
+    {
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "firmwareVersion": "7.11.8",
+      "interval": 15,
+      "startedAt": "2024-02-26T06:05:24.723Z",
+      "stoppedAt": "2024-02-26T06:05:24.723Z",
+      "hr": 74,
+      "rr": 18
+    },
+    {
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "firmwareVersion": "7.11.8",
+      "interval": 15,
+      "startedAt": "2024-02-26T06:05:39.729Z",
+      "stoppedAt": "2024-02-26T06:05:39.729Z",
+      "hr": 80,
+      "rr": 15
+    },
+    {
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "firmwareVersion": "7.11.8",
+      "interval": 15,
+      "startedAt": "2024-02-26T06:05:54.733Z",
+      "stoppedAt": "2024-02-26T06:05:54.733Z",
+      "hr": 58,
+      "rr": 51
+    },
+    {
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "firmwareVersion": "7.11.8",
+      "interval": 15,
+      "startedAt": "2024-02-26T06:06:47.152Z",
+      "stoppedAt": "2024-02-26T06:06:47.152Z",
+      "hr": 78,
+      "rr": 41
+    },
+    {
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "firmwareVersion": "7.11.8",
+      "interval": 15,
+      "startedAt": "2024-02-26T06:07:02.158Z",
+      "stoppedAt": "2024-02-26T06:07:02.158Z",
+      "hr": 54,
+      "rr": 21
+    },
+    {
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "firmwareVersion": "7.11.8",
+      "interval": 15,
+      "startedAt": "2024-02-26T06:07:17.164Z",
+      "stoppedAt": "2024-02-26T06:07:17.164Z",
+      "hr": 51,
+      "rr": 55
+    },
+    {
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "firmwareVersion": "7.11.8",
+      "interval": 15,
+      "startedAt": "2024-02-26T06:07:32.163Z",
+      "stoppedAt": "2024-02-26T06:07:32.163Z",
+      "hr": 64,
+      "rr": 55
+    },
+    {
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "firmwareVersion": "7.11.8",
+      "interval": 15,
+      "startedAt": "2024-02-26T06:07:47.165Z",
+      "stoppedAt": "2024-02-26T06:07:47.165Z",
+      "hr": 58,
+      "rr": 0
+    },
+    {
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "firmwareVersion": "7.11.8",
+      "interval": 15,
+      "startedAt": "2024-02-26T06:08:02.172Z",
+      "stoppedAt": "2024-02-26T06:08:02.172Z",
+      "hr": 65,
+      "rr": 10
+    },
+    {
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "firmwareVersion": "7.11.8",
+      "interval": 15,
+      "startedAt": "2024-02-26T06:08:17.175Z",
+      "stoppedAt": "2024-02-26T06:08:17.175Z",
+      "hr": 57,
+      "rr": 11
+    },
+    {
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "firmwareVersion": "7.11.8",
+      "interval": 15,
+      "startedAt": "2024-02-26T06:08:32.185Z",
+      "stoppedAt": "2024-02-26T06:08:32.185Z",
+      "hr": 53,
+      "rr": 51
+    },
+    {
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "firmwareVersion": "7.11.8",
+      "interval": 15,
+      "startedAt": "2024-02-26T06:08:47.190Z",
+      "stoppedAt": "2024-02-26T06:08:47.190Z",
+      "hr": 38,
+      "rr": 46
+    },
+    {
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "firmwareVersion": "7.11.8",
+      "interval": 15,
+      "startedAt": "2024-02-26T06:17:37.075Z",
+      "stoppedAt": "2024-02-26T06:17:37.075Z",
+      "hr": 66,
+      "rr": 53
+    },
+    {
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "firmwareVersion": "7.11.8",
+      "interval": 15,
+      "startedAt": "2024-02-26T06:17:52.072Z",
+      "stoppedAt": "2024-02-26T06:17:52.072Z",
+      "hr": 68,
+      "rr": 52
+    },
+    {
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "firmwareVersion": "7.11.8",
+      "interval": 15,
+      "startedAt": "2024-02-26T06:45:56.522Z",
+      "stoppedAt": "2024-02-26T06:45:56.522Z",
+      "hr": 85,
+      "rr": 15
+    }
+  ],
+  "monitoringAlarmRecords": [
+    {
+      "alarmType": 1,
+      "stoppedStaffId": null,
+      "stoppedStaffName": null,
+      "hrMin": 170,
+      "hrMax": 220,
+      "rrMin": 113,
+      "rrMax": 167,
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "activatedAt": "2024-02-26T05:50:36.397Z",
+      "stoppedAt": "2024-02-26T05:50:36.397Z"
+    },
+    {
+      "alarmType": 3,
+      "stoppedStaffId": null,
+      "stoppedStaffName": null,
+      "hrMin": 170,
+      "hrMax": 220,
+      "rrMin": 113,
+      "rrMax": 167,
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "activatedAt": "2024-02-26T05:50:36.397Z",
+      "stoppedAt": "2024-02-26T05:50:57.294Z"
+    },
+    {
+      "alarmType": 1,
+      "stoppedStaffId": null,
+      "stoppedStaffName": null,
+      "hrMin": 170,
+      "hrMax": 220,
+      "rrMin": 113,
+      "rrMax": 167,
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "activatedAt": "2024-02-26T05:56:48.542Z",
+      "stoppedAt": "2024-02-26T05:56:48.542Z"
+    },
+    {
+      "alarmType": 3,
+      "stoppedStaffId": null,
+      "stoppedStaffName": null,
+      "hrMin": 170,
+      "hrMax": 220,
+      "rrMin": 113,
+      "rrMax": 167,
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "activatedAt": "2024-02-26T05:56:48.542Z",
+      "stoppedAt": "2024-02-26T05:56:58.705Z"
+    },
+    {
+      "alarmType": 1,
+      "stoppedStaffId": null,
+      "stoppedStaffName": null,
+      "hrMin": 170,
+      "hrMax": 220,
+      "rrMin": 113,
+      "rrMax": 167,
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "activatedAt": "2024-02-26T05:57:44.925Z",
+      "stoppedAt": "2024-02-26T05:57:44.925Z"
+    },
+    {
+      "alarmType": 3,
+      "stoppedStaffId": null,
+      "stoppedStaffName": null,
+      "hrMin": 170,
+      "hrMax": 220,
+      "rrMin": 113,
+      "rrMax": 167,
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "activatedAt": "2024-02-26T05:57:44.925Z",
+      "stoppedAt": "2024-02-26T05:58:27.212Z"
+    },
+    {
+      "alarmType": 1,
+      "stoppedStaffId": null,
+      "stoppedStaffName": null,
+      "hrMin": 170,
+      "hrMax": 220,
+      "rrMin": 113,
+      "rrMax": 167,
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "activatedAt": "2024-02-26T05:58:49.817Z",
+      "stoppedAt": "2024-02-26T05:58:49.817Z"
+    },
+    {
+      "alarmType": 3,
+      "stoppedStaffId": null,
+      "stoppedStaffName": null,
+      "hrMin": 170,
+      "hrMax": 220,
+      "rrMin": 113,
+      "rrMax": 167,
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "activatedAt": "2024-02-26T05:58:49.817Z",
+      "stoppedAt": "2024-02-26T05:59:49.663Z"
+    },
+    {
+      "alarmType": 1,
+      "stoppedStaffId": null,
+      "stoppedStaffName": null,
+      "hrMin": 170,
+      "hrMax": 220,
+      "rrMin": 113,
+      "rrMax": 167,
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "activatedAt": "2024-02-26T06:04:22.057Z",
+      "stoppedAt": "2024-02-26T06:04:22.057Z"
+    },
+    {
+      "alarmType": 3,
+      "stoppedStaffId": null,
+      "stoppedStaffName": null,
+      "hrMin": 170,
+      "hrMax": 220,
+      "rrMin": 113,
+      "rrMax": 167,
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "activatedAt": "2024-02-26T06:04:22.057Z",
+      "stoppedAt": "2024-02-26T06:04:23.958Z"
+    },
+    {
+      "alarmType": 1,
+      "stoppedStaffId": null,
+      "stoppedStaffName": null,
+      "hrMin": 170,
+      "hrMax": 220,
+      "rrMin": 113,
+      "rrMax": 167,
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "activatedAt": "2024-02-26T06:04:30.927Z",
+      "stoppedAt": "2024-02-26T06:04:30.927Z"
+    },
+    {
+      "alarmType": 3,
+      "stoppedStaffId": null,
+      "stoppedStaffName": null,
+      "hrMin": 170,
+      "hrMax": 220,
+      "rrMin": 113,
+      "rrMax": 167,
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "activatedAt": "2024-02-26T06:04:30.927Z",
+      "stoppedAt": "2024-02-26T06:05:59.813Z"
+    },
+    {
+      "alarmType": 2,
+      "stoppedStaffId": null,
+      "stoppedStaffName": null,
+      "hrMin": 170,
+      "hrMax": 220,
+      "rrMin": 113,
+      "rrMax": 167,
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "activatedAt": "2024-02-26T06:06:09.369Z",
+      "stoppedAt": "2024-02-26T06:06:09.369Z"
+    },
+    {
+      "alarmType": 3,
+      "stoppedStaffId": null,
+      "stoppedStaffName": null,
+      "hrMin": 170,
+      "hrMax": 220,
+      "rrMin": 113,
+      "rrMax": 167,
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "activatedAt": "2024-02-26T06:06:09.369Z",
+      "stoppedAt": "2024-02-26T06:06:13.130Z"
+    },
+    {
+      "alarmType": 1,
+      "stoppedStaffId": null,
+      "stoppedStaffName": null,
+      "hrMin": 170,
+      "hrMax": 220,
+      "rrMin": 113,
+      "rrMax": 167,
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "activatedAt": "2024-02-26T06:06:37.296Z",
+      "stoppedAt": "2024-02-26T06:06:37.296Z"
+    },
+    {
+      "alarmType": 3,
+      "stoppedStaffId": null,
+      "stoppedStaffName": null,
+      "hrMin": 170,
+      "hrMax": 220,
+      "rrMin": 113,
+      "rrMax": 167,
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "activatedAt": "2024-02-26T06:06:37.296Z",
+      "stoppedAt": "2024-02-26T06:08:57.831Z"
+    },
+    {
+      "alarmType": 1,
+      "stoppedStaffId": null,
+      "stoppedStaffName": null,
+      "hrMin": 170,
+      "hrMax": 220,
+      "rrMin": 113,
+      "rrMax": 167,
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "activatedAt": "2024-02-26T06:17:26.735Z",
+      "stoppedAt": "2024-02-26T06:17:26.735Z"
+    },
+    {
+      "alarmType": 3,
+      "stoppedStaffId": null,
+      "stoppedStaffName": null,
+      "hrMin": 170,
+      "hrMax": 220,
+      "rrMin": 113,
+      "rrMax": 167,
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "activatedAt": "2024-02-26T06:17:26.735Z",
+      "stoppedAt": "2024-02-26T06:17:57.516Z"
+    },
+    {
+      "alarmType": 1,
+      "stoppedStaffId": null,
+      "stoppedStaffName": null,
+      "hrMin": 170,
+      "hrMax": 220,
+      "rrMin": 113,
+      "rrMax": 167,
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "activatedAt": "2024-02-26T06:45:48.851Z",
+      "stoppedAt": "2024-02-26T06:45:48.851Z"
+    },
+    {
+      "alarmType": 3,
+      "stoppedStaffId": null,
+      "stoppedStaffName": null,
+      "hrMin": 170,
+      "hrMax": 220,
+      "rrMin": 113,
+      "rrMax": 167,
+      "dolittleMacAddress": "F5:05:41:8F:96:A7",
+      "activatedAt": "2024-02-26T06:45:48.851Z",
+      "stoppedAt": "2024-02-26T06:46:05.811Z"
+    }
+  ],
+  "updateRecords": [],
+  "chargedAt": "2024-02-22T09:43:37.259Z",
+  "dischargedAt": "2024-02-22T09:43:37.259Z",
+  "deletedAt": null,
+  "locationCoordinates": {
+    "lat": 37.5665427,
+    "lng": 126.9880508
+  },
+  "tabletWifiMacAddress": "ec:7c:b6:a6:ad:b2",
+  "tx": [],
+  "createdAt": "2024-02-22T09:43:37.320Z",
+  "updatedAt": "2024-02-26T06:46:05.871Z",
+  "__v": 52
+}

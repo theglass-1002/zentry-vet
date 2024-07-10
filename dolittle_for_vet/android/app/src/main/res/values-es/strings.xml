@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_loc_key">MULTI_MONITORING_ALARM</string>
+    <string name="body_loc_key">HR_RR</string>
+    <string name="MULTI_MONITORING_ALARM">DolittleVet</string>
+    <string name="HR_RR">Recordatorio de frecuencia cardíaca y frecuencia respiratoria anormales en pacientes hospitalizados</string>
+
+    <string name="HOSPITAL_USER_AUTHORITY_CHANGED_NORMAL"> %1$s el permiso ha sido cambiado a Veterinario </string>
+    <string name="HOSPITAL_USER_AUTHORITY_CHANGED_MANAGER"> %1$s el permiso ha sido cambiado a Gerente</string>
+    <string name="HOSPITAL_USER_AUTHORITY_CHANGED_OWNER"> %1$s el permiso ha sido cambiado a Director del hospital</string>
+    <string name="HOSPITAL_USER_AUTHORITY_CHANGED_TECHNICIAN"> %1$s el permiso ha sido cambiado a Técnico</string>
+
+    <string name="HOSPITAL_USER_DEREGISTRATION"> %1$s han sido rechazados con el hospital</string>
+
+    <string name="HOSPITAL_USER_REGISTRATION_NORMAL"> %1$s han estado afiliados al hospital</string>
+    <string name="HOSPITAL_USER_REGISTRATION_MANAGER"> %1$s han estado afiliados al hospital</string>
+    <string name="HOSPITAL_USER_REGISTRATION_OWNER"> %1$s han estado afiliados al hospital</string>
+    <string name="HOSPITAL_USER_REGISTRATION_TECHNICIAN"> %1$s han estado afiliados al hospital</string>
+
+
+    <string name="HOSPITAL_HANDOVER_ACCEPTED"> Su solicitud de transferencia de hospital ha sido completada </string>
+    <string name="HOSPITAL_HANDOVER_REJECTED"> Su solicitud de transferencia de hospital ha sido rechazada </string>
+
+    <string name="HOSPITAL_UPDATE_ACCEPTED"> Su solicitud de actualización de hospital ha sido completada </string>
+    <string name="HOSPITAL_UPDATE_REJECTED"> Su solicitud de actualización de hospital ha sido rechazada </string>
+
+    <string name="HOSPITAL_REGISTRATION_ACCEPTED"> Su solicitud de transferencia de hospital ha sido completada </string>
+    <string name="HOSPITAL_REGISTRATION_REJECTED"> Su solicitud de transferencia de hospital ha sido rechazada </string>
+
+
+</resources>

@@ -1,0 +1,41 @@
+{
+  "result": [
+    {
+      "id": "0",
+      "chart_no": "A001",
+      "name": "Sample_01",
+      "birth": "2020-09-06",
+      "animal_type": 0,
+      "gender": 2,
+      "breed": "Galgo",
+      "cardiac": "C1",
+      "latestMeasuredAt": "2024-06-15T08:48:35.986Z",
+      "isVisible": true
+    },
+    {
+      "id": "1",
+      "chart_no": "A002",
+      "name": "Sample_02",
+      "birth": "2021-04-11",
+      "animal_type": 0,
+      "gender": 3,
+      "breed": "Perro tejonero",
+      "cardiac": "A",
+      "latestMeasuredAt": "2024-06-15T08:48:35.986Z",
+      "isVisible": true
+    },
+    {
+      "id": "2",
+      "chart_no": "A003",
+      "name": "Sample_03",
+      "birth": "2015-12-21",
+      "animal_type": 1,
+      "gender": 1,
+      "breed": "Ragdoll",
+      "cardiac": "D",
+      "isVisible": true,
+      "latestMeasuredAt": "2024-06-15T08:48:35.986Z"
+    }
+
+  ]
+}

@@ -1,0 +1,11 @@
+/*
+  InfoPlist.strings
+  Runner
+
+  Created by zentryMacSh on 2022/12/01.
+  
+*/
+
+"NSCameraUsageDescription"       = "QR 코드 인식을 위해 사용합니다.";
+"NSMicrophoneUsageDescription"   = "QR 코드 인식을 위해 사용합니다.";
+"NSPhotoLibraryUsageDescription" = "동물병원 권한 등록을 위해 수의사면허증과 사업자등록증 첨부 목적 또는 문의하기 화면에서 사용합니다.";

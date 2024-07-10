@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "114079870033",
+    "project_id": "dolittle-vet",
+    "storage_bucket": "dolittle-vet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114079870033:android:b6820546b58607ec4a5c70",
+        "android_client_info": {
+          "package_name": "kr.zentry.dolittleforveterinarian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114079870033-eoll4t4b34d16gad6ntrtevdmvpqnc7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.zentry.dolittleforveterinarian",
+            "certificate_hash": "f9da506e16d90adc398eb0ff790745171bf755b0"
+          }
+        },
+        {
+          "client_id": "114079870033-jd4s22i3u429bjkbn76qcf8gg4lovpms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.zentry.dolittleforveterinarian",
+            "certificate_hash": "5f63f0b4c4c3f9eb83e52c08d35874811ace40a6"
+          }
+        },
+        {
+          "client_id": "114079870033-v6okneb1hu6922e7pt7t4gg82s4otfld.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.zentry.dolittleforveterinarian",
+            "certificate_hash": "6b568ad4beba4244f07f26a76c2a3261f8f1b786"
+          }
+        },
+        {
+          "client_id": "114079870033-0v650bbg3ik53kuhovq6etnoqkt0jnbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfUafrnkwoj6BzaRBK1q05WzmSVgye4SY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114079870033-0v650bbg3ik53kuhovq6etnoqkt0jnbq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "114079870033-quboau6gleedsjvd6irdl324glf2e3li.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dolittleForVet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

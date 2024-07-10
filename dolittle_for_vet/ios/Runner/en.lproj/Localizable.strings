@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  Runner
+
+  Created by zentry-ria on 2023/06/30.
+  
+*/
+"MULTI_MONITORING_ALARM" = "DolittleVet";
+"HR_RR" = "Reminder of abnormal heart rate and respiratory rate in hospitalized patients";
+"HOSPITAL_USER_AUTHORITY_CHANGED_NORMAL" = "%@1 permission has been changed to Veterinarian";
+"HOSPITAL_USER_AUTHORITY_CHANGED_MANAGER" = "%@1 permission has been changed to Manager";
+"HOSPITAL_USER_AUTHORITY_CHANGED_OWNER" = "%@1 permission has been changed to Hospital director";
+"HOSPITAL_USER_AUTHORITY_CHANGED_TECHNICIAN" = "%@1 permission has been changed to Hospital Technician";
+"HOSPITAL_USER_DEREGISTRATION" = "%@1 have been rejected with the hospital";
+"HOSPITAL_USER_REGISTRATION_NORMAL" = "%@1 have been affiliated with the hospital";
+"HOSPITAL_USER_REGISTRATION_MANAGER" = "%@1 have been affiliated with the hospital";
+"HOSPITAL_USER_REGISTRATION_OWNER" = "%@1 have been affiliated with the hospital";
+"HOSPITAL_USER_REGISTRATION_TECHNICIAN" = "%@1 have been affiliated with the hospital";
+
+"HOSPITAL_HANDOVER_ACCEPTED" = "Your hospital handover request has been complete";
+"HOSPITAL_HANDOVER_REJECTED" = "Your hospital handover request has been rejected";
+
+"HOSPITAL_UPDATE_ACCEPTED" = "Your hospital handover request has been rejected";
+"HOSPITAL_UPDATE_REJECTED" = "Your hospital update request has been complete";
+
+"HOSPITAL_REGISTRATION_ACCEPTED" = "Your hospital registration request has been complete";
+"HOSPITAL_REGISTRATION_REJECTED" = "Your hospital registration request has been rejected";
+
+
+

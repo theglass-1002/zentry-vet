@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_loc_key">MULTI_MONITORING_ALARM</string>
+    <string name="body_loc_key">HR_RR</string>
+<!--    <string name="MULTI_MONITORING_ALARM">DolittleVet</string>-->
+<!--    <string name="HR_RR">입원 환자의 비정상적인 심박수 및 호흡수 알림</string>-->
+    <string name="HR_RR">환자 상태 이상 감지</string>
+
+
+    <string name="HOSPITAL_USER_AUTHORITY_CHANGED_NORMAL">수의사로 권한이 변경 되었습니다. </string>
+    <string name="HOSPITAL_USER_AUTHORITY_CHANGED_MANAGER">관리자로 권한이 변경 되었습니다.</string>
+    <string name="HOSPITAL_USER_AUTHORITY_CHANGED_OWNER"> 병원장으로 권한이 변경 되었습니다.</string>
+    <string name="HOSPITAL_USER_AUTHORITY_CHANGED_TECHNICIAN">테크니션으로 권한이 변경 되었습니다.</string>
+
+    <string name="HOSPITAL_USER_DEREGISTRATION">병원 소속이 해제 되었습니다.</string>
+
+    <string name="HOSPITAL_USER_REGISTRATION_NORMAL">병원 소속이 완료 되었습니다.</string>
+    <string name="HOSPITAL_USER_REGISTRATION_MANAGER">병원 소속이 완료 되었습니다.</string>
+    <string name="HOSPITAL_USER_REGISTRATION_OWNER">병원 소속이 완료 되었습니다.</string>
+    <string name="HOSPITAL_USER_REGISTRATION_TECHNICIAN">병원 소속이 완료 되었습니다.</string>
+
+
+    <string name="HOSPITAL_HANDOVER_ACCEPTED">병원 양도 신청이 완료 되었습니다.</string>
+    <string name="HOSPITAL_HANDOVER_REJECTED">병원 양도 신청이 반려 되었습니다.</string>
+
+    <string name="HOSPITAL_UPDATE_ACCEPTED">병원 정보 수정이 완료 되었습니다.</string>
+    <string name="HOSPITAL_UPDATE_REJECTED">병원 정보 수정이 반려 되었습니다.</string>
+
+    <string name="HOSPITAL_REGISTRATION_ACCEPTED">병원 등록이 완료 되었습니다.</string>
+    <string name="HOSPITAL_REGISTRATION_REJECTED">병원 등록이 반려 되었습니다.</string>
+
+</resources>

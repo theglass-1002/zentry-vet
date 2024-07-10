@@ -1,0 +1,1191 @@
+{
+  "hr_rr": [
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 70,
+      "createdAt": "2024-06-01T19:20:00.000Z",
+      "updatedAt": "2024-06-01T19:20:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 70,
+      "createdAt": "2024-06-01T20:20:00.000Z",
+      "updatedAt": "2024-06-01T20:20:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 72,
+      "createdAt": "2024-06-01T17:40:00.000Z",
+      "updatedAt": "2024-06-01T17:40:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 64,
+      "createdAt": "2024-06-01T18:40:00.000Z",
+      "updatedAt": "2024-06-01T18:40:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 70,
+      "createdAt": "2024-06-01T19:40:00.000Z",
+      "updatedAt": "2024-06-01T19:40:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 88,
+      "createdAt": "2024-06-01T20:40:00.000Z",
+      "updatedAt": "2024-06-01T20:40:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 12,
+      "createdAt": "2024-06-01T17:00:00.000Z",
+      "updatedAt": "2024-06-01T17:00:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 12,
+      "createdAt": "2024-06-01T18:00:00.000Z",
+      "updatedAt": "2024-06-01T18:00:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 18,
+      "createdAt": "2024-06-01T19:00:00.000Z",
+      "updatedAt": "2024-06-01T19:00:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 16,
+      "createdAt": "2024-06-01T20:00:00.000Z",
+      "updatedAt": "2024-06-01T20:00:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 10,
+      "createdAt": "2024-06-01T17:20:00.000Z",
+      "updatedAt": "2024-06-01T17:20:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 16,
+      "createdAt": "2024-06-01T18:20:00.000Z",
+      "updatedAt": "2024-06-01T18:20:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 18,
+      "createdAt": "2024-06-01T19:20:00.000Z",
+      "updatedAt": "2024-06-01T19:20:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 15,
+      "createdAt": "2024-06-01T20:20:00.000Z",
+      "updatedAt": "2024-06-01T20:20:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 12,
+      "createdAt": "2024-06-01T17:40:00.000Z",
+      "updatedAt": "2024-06-01T17:40:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 16,
+      "createdAt": "2024-06-01T18:40:00.000Z",
+      "updatedAt": "2024-06-01T18:40:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 15,
+      "createdAt": "2024-06-01T19:40:00.000Z",
+      "updatedAt": "2024-06-01T19:40:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 13,
+      "createdAt": "2024-06-01T20:40:00.000Z",
+      "updatedAt": "2024-06-01T20:40:00.000Z"
+    },
+
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 76,
+      "createdAt": "2024-06-01T17:00:00.000Z",
+      "updatedAt": "2024-06-01T17:00:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 90,
+      "createdAt": "2024-06-01T18:00:00.000Z",
+      "updatedAt": "2024-06-01T18:00:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 68,
+      "createdAt": "2024-06-01T19:00:00.000Z",
+      "updatedAt": "2024-06-01T19:00:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 72,
+      "createdAt": "2024-06-01T20:00:00.000Z",
+      "updatedAt": "2024-06-01T20:00:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 86,
+      "createdAt": "2024-06-01T17:20:00.000Z",
+      "updatedAt": "2024-06-01T17:20:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 76,
+      "createdAt": "2024-06-01T18:20:00.000Z",
+      "updatedAt": "2024-06-01T18:20:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 70,
+      "createdAt": "2024-06-01T19:20:00.000Z",
+      "updatedAt": "2024-06-01T19:20:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 68,
+      "createdAt": "2024-06-01T20:20:00.000Z",
+      "updatedAt": "2024-06-01T20:20:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 80,
+      "createdAt": "2024-06-01T17:40:00.000Z",
+      "updatedAt": "2024-06-01T17:40:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 70,
+      "createdAt": "2024-06-01T18:40:00.000Z",
+      "updatedAt": "2024-06-01T18:40:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 72,
+      "createdAt": "2024-06-01T19:40:00.000Z",
+      "updatedAt": "2024-06-01T19:40:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 102,
+      "createdAt": "2024-06-01T20:40:00.000Z",
+      "updatedAt": "2024-06-01T20:40:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 20,
+      "createdAt": "2024-06-01T17:00:00.000Z",
+      "updatedAt": "2024-06-01T17:00:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 18,
+      "createdAt": "2024-06-01T18:00:00.000Z",
+      "updatedAt": "2024-06-01T18:00:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 16,
+      "createdAt": "2024-06-01T19:00:00.000Z",
+      "updatedAt": "2024-06-01T19:00:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 16,
+      "createdAt": "2024-06-01T20:00:00.000Z",
+      "updatedAt": "2024-06-01T20:00:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 20,
+      "createdAt": "2024-06-01T17:20:00.000Z",
+      "updatedAt": "2024-06-01T17:20:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 14,
+      "createdAt": "2024-06-01T18:20:00.000Z",
+      "updatedAt": "2024-06-01T18:20:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 16,
+      "createdAt": "2024-06-01T19:20:00.000Z",
+      "updatedAt": "2024-06-01T19:20:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 14,
+      "createdAt": "2024-06-01T20:20:00.000Z",
+      "updatedAt": "2024-06-01T20:20:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 18,
+      "createdAt": "2024-06-01T17:40:00.000Z",
+      "updatedAt": "2024-06-01T17:40:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 14,
+      "createdAt": "2024-06-01T18:40:00.000Z",
+      "updatedAt": "2024-06-01T18:40:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 10,
+      "createdAt": "2024-06-01T19:40:00.000Z",
+      "updatedAt": "2024-06-01T19:40:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 14,
+      "createdAt": "2024-06-01T20:40:00.000Z",
+      "updatedAt": "2024-06-01T20:40:00.000Z"
+    },
+    {
+      "type": "HR_AUTO",
+      "data": 76,
+      "createdAt": "2024-06-02T05:20:15.849Z",
+      "updatedAt": "2024-06-02T05:20:15.849Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 12,
+      "createdAt": "2024-06-02T16:30:00.000Z",
+      "updatedAt": "2024-06-02T16:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 16,
+      "createdAt": "2024-06-02T17:30:00.000Z",
+      "updatedAt": "2024-06-02T17:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 16,
+      "createdAt": "2024-06-02T18:30:00.000Z",
+      "updatedAt": "2024-06-02T18:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 60,
+      "createdAt": "2024-06-02T17:30:00.000Z",
+      "updatedAt": "2024-06-02T17:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 102,
+      "createdAt": "2024-06-02T18:30:00.000Z",
+      "updatedAt": "2024-06-02T18:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 12,
+      "createdAt": "2024-06-02T16:30:00.000Z",
+      "updatedAt": "2024-06-02T16:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 10,
+      "createdAt": "2024-06-02T17:30:00.000Z",
+      "updatedAt": "2024-06-02T17:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 14,
+      "createdAt": "2024-06-02T18:30:00.000Z",
+      "updatedAt": "2024-06-02T18:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 56,
+      "createdAt": "2024-06-03T18:30:00.000Z",
+      "updatedAt": "2024-06-03T18:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 14,
+      "createdAt": "2024-06-02T20:30:00.000Z",
+      "updatedAt": "2024-06-02T20:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 108,
+      "createdAt": "2024-06-03T19:30:00.000Z",
+      "updatedAt": "2024-06-03T19:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 34,
+      "createdAt": "2024-06-03T20:30:00.000Z",
+      "updatedAt": "2024-06-03T20:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 20,
+      "createdAt": "2024-06-03T16:30:00.000Z",
+      "updatedAt": "2024-06-03T16:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 14,
+      "createdAt": "2024-06-03T17:30:00.000Z",
+      "updatedAt": "2024-06-03T17:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 14,
+      "createdAt": "2024-06-03T18:30:00.000Z",
+      "updatedAt": "2024-06-03T18:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 16,
+      "createdAt": "2024-06-03T19:30:00.000Z",
+      "updatedAt": "2024-06-03T19:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 14,
+      "createdAt": "2024-06-03T20:30:00.000Z",
+      "updatedAt": "2024-06-03T20:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 70,
+      "createdAt": "2024-06-04T17:30:00.000Z",
+      "updatedAt": "2024-06-04T17:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 70,
+      "createdAt": "2024-06-04T18:30:00.000Z",
+      "updatedAt": "2024-06-04T18:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 84,
+      "createdAt": "2024-06-04T19:30:00.000Z",
+      "updatedAt": "2024-06-04T19:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 64,
+      "createdAt": "2024-06-04T20:30:00.000Z",
+      "updatedAt": "2024-06-04T20:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 13,
+      "createdAt": "2024-06-04T17:30:00.000Z",
+      "updatedAt": "2024-06-04T17:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 12,
+      "createdAt": "2024-06-04T18:30:00.000Z",
+      "updatedAt": "2024-06-04T18:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 16,
+      "createdAt": "2024-06-04T19:30:00.000Z",
+      "updatedAt": "2024-06-04T19:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 18,
+      "createdAt": "2024-06-04T20:30:00.000Z",
+      "updatedAt": "2024-06-04T20:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 76,
+      "createdAt": "2024-06-05T16:30:00.000Z",
+      "updatedAt": "2024-06-05T16:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 80,
+      "createdAt": "2024-06-05T17:30:00.000Z",
+      "updatedAt": "2024-06-05T17:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 70,
+      "createdAt": "2024-06-05T18:30:00.000Z",
+      "updatedAt": "2024-06-05T18:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 72,
+      "createdAt": "2024-06-05T19:30:00.000Z",
+      "updatedAt": "2024-06-05T19:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 72,
+      "createdAt": "2024-06-05T20:30:00.000Z",
+      "updatedAt": "2024-06-05T20:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 18,
+      "createdAt": "2024-06-05T16:30:00.000Z",
+      "updatedAt": "2024-06-05T16:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 10,
+      "createdAt": "2024-06-05T17:30:00.000Z",
+      "updatedAt": "2024-06-05T17:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 12,
+      "createdAt": "2024-06-05T18:30:00.000Z",
+      "updatedAt": "2024-06-05T18:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 12,
+      "createdAt": "2024-06-05T19:30:00.000Z",
+      "updatedAt": "2024-06-05T19:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 12,
+      "createdAt": "2024-06-05T20:30:00.000Z",
+      "updatedAt": "2024-06-05T20:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 68,
+      "createdAt": "2024-06-06T17:30:00.000Z",
+      "updatedAt": "2024-06-06T17:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 18,
+      "createdAt": "2024-06-06T17:30:00.000Z",
+      "updatedAt": "2024-06-06T17:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 14,
+      "createdAt": "2024-06-06T18:30:00.000Z",
+      "updatedAt": "2024-06-06T18:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 13,
+      "createdAt": "2024-06-06T19:30:00.000Z",
+      "updatedAt": "2024-06-06T19:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 16,
+      "createdAt": "2024-06-06T20:30:00.000Z",
+      "updatedAt": "2024-06-06T20:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 86,
+      "createdAt": "2024-06-13T16:30:00.000Z",
+      "updatedAt": "2024-06-13T16:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 76,
+      "createdAt": "2024-06-13T17:30:00.000Z",
+      "updatedAt": "2024-06-13T17:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 86,
+      "createdAt": "2024-06-13T18:30:00.000Z",
+      "updatedAt": "2024-06-13T18:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 92,
+      "createdAt": "2024-06-13T19:30:00.000Z",
+      "updatedAt": "2024-06-13T19:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 70,
+      "createdAt": "2024-06-13T20:30:00.000Z",
+      "updatedAt": "2024-06-13T20:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 16,
+      "createdAt": "2024-06-13T16:30:00.000Z",
+      "updatedAt": "2024-06-13T16:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 16,
+      "createdAt": "2024-06-13T17:30:00.000Z",
+      "updatedAt": "2024-06-13T17:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 16,
+      "createdAt": "2024-06-13T18:30:00.000Z",
+      "updatedAt": "2024-06-13T18:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 12,
+      "createdAt": "2024-06-13T19:30:00.000Z",
+      "updatedAt": "2024-06-13T19:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 14,
+      "createdAt": "2024-06-13T20:30:00.000Z",
+      "updatedAt": "2024-06-13T20:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 52,
+      "createdAt": "2024-06-14T16:30:00.000Z",
+      "updatedAt": "2024-06-14T16:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 62,
+      "createdAt": "2024-06-14T17:30:00.000Z",
+      "updatedAt": "2024-06-14T17:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 86,
+      "createdAt": "2024-06-14T18:30:00.000Z",
+      "updatedAt": "2024-06-14T18:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 74,
+      "createdAt": "2024-06-14T19:30:00.000Z",
+      "updatedAt": "2024-06-14T19:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 68,
+      "createdAt": "2024-06-14T20:30:00.000Z",
+      "updatedAt": "2024-06-14T20:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 13,
+      "createdAt": "2024-06-14T16:30:00.000Z",
+      "updatedAt": "2024-06-14T16:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 16,
+      "createdAt": "2024-06-14T19:30:00.000Z",
+      "updatedAt": "2024-06-14T19:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 14,
+      "createdAt": "2024-06-14T20:30:00.000Z",
+      "updatedAt": "2024-06-14T20:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 70,
+      "createdAt": "2024-06-07T17:30:00.000Z",
+      "updatedAt": "2024-06-07T17:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 70,
+      "createdAt": "2024-06-07T18:30:00.000Z",
+      "updatedAt": "2024-06-07T18:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 70,
+      "createdAt": "2024-06-07T19:30:00.000Z",
+      "updatedAt": "2024-06-07T19:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 10,
+      "createdAt": "2024-06-07T20:30:00.000Z",
+      "updatedAt": "2024-06-07T20:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 16,
+      "createdAt": "2024-06-07T17:30:00.000Z",
+      "updatedAt": "2024-06-07T17:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 16,
+      "createdAt": "2024-06-07T18:30:00.000Z",
+      "updatedAt": "2024-06-07T18:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 16,
+      "createdAt": "2024-06-07T19:30:00.000Z",
+      "updatedAt": "2024-06-07T19:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 13,
+      "createdAt": "2024-06-07T20:30:00.000Z",
+      "updatedAt": "2024-06-07T20:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 66,
+      "createdAt": "2024-06-08T17:30:00.000Z",
+      "updatedAt": "2024-06-08T17:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 66,
+      "createdAt": "2024-06-08T18:30:00.000Z",
+      "updatedAt": "2024-06-08T18:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 62,
+      "createdAt": "2024-06-08T19:30:00.000Z",
+      "updatedAt": "2024-06-08T19:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 68,
+      "createdAt": "2024-06-08T20:30:00.000Z",
+      "updatedAt": "2024-06-08T20:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 13,
+      "createdAt": "2024-06-08T17:30:00.000Z",
+      "updatedAt": "2024-06-08T17:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 18,
+      "createdAt": "2024-06-08T18:30:00.000Z",
+      "updatedAt": "2024-06-08T18:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 18,
+      "createdAt": "2024-06-08T19:30:00.000Z",
+      "updatedAt": "2024-06-08T19:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 18,
+      "createdAt": "2024-06-08T20:30:00.000Z",
+      "updatedAt": "2024-06-08T20:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO",
+      "data": 82,
+      "createdAt": "2024-06-12T06:09:16.461Z",
+      "updatedAt": "2024-06-12T06:09:16.461Z"
+    },
+    {
+      "type": "RR_AUTO",
+      "data": 16,
+      "createdAt": "2024-06-12T06:09:16.461Z",
+      "updatedAt": "2024-06-12T06:09:16.461Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 88,
+      "createdAt": "2024-06-10T19:30:00.000Z",
+      "updatedAt": "2024-06-10T19:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 74,
+      "createdAt": "2024-06-10T20:30:00.000Z",
+      "updatedAt": "2024-06-10T20:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 60,
+      "createdAt": "2024-06-10T21:30:00.000Z",
+      "updatedAt": "2024-06-10T21:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 11,
+      "createdAt": "2024-06-10T19:30:00.000Z",
+      "updatedAt": "2024-06-10T19:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 16,
+      "createdAt": "2024-06-10T20:30:00.000Z",
+      "updatedAt": "2024-06-10T20:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 12,
+      "createdAt": "2024-06-10T21:30:00.000Z",
+      "updatedAt": "2024-06-10T21:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 64,
+      "createdAt": "2024-06-11T16:30:00.000Z",
+      "updatedAt": "2024-06-11T16:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 74,
+      "createdAt": "2024-06-11T17:30:00.000Z",
+      "updatedAt": "2024-06-11T17:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 64,
+      "createdAt": "2024-06-11T18:30:00.000Z",
+      "updatedAt": "2024-06-11T18:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 62,
+      "createdAt": "2024-06-11T19:30:00.000Z",
+      "updatedAt": "2024-06-11T19:30:00.000Z"
+    },
+    {
+      "type": "HR_AUTO_RESERVATION",
+      "data": 78,
+      "createdAt": "2024-06-11T20:30:00.000Z",
+      "updatedAt": "2024-06-11T20:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 16,
+      "createdAt": "2024-06-11T16:30:00.000Z",
+      "updatedAt": "2024-06-11T16:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 8,
+      "createdAt": "2024-06-11T17:30:00.000Z",
+      "updatedAt": "2024-06-11T17:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 16,
+      "createdAt": "2024-06-11T18:30:00.000Z",
+      "updatedAt": "2024-06-11T18:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 16,
+      "createdAt": "2024-06-11T19:30:00.000Z",
+      "updatedAt": "2024-06-11T19:30:00.000Z"
+    },
+    {
+      "type": "RR_AUTO_RESERVATION",
+      "data": 14,
+      "createdAt": "2024-06-11T20:30:00.000Z",
+      "updatedAt": "2024-06-11T20:30:00.000Z"
+    },
+    {
+      "type": "RR_MANUAL",
+      "data": 16,
+      "createdAt": "2024-06-12T06:07:59.368Z",
+      "updatedAt": "2024-06-12T06:07:59.368Z"
+    },
+    {
+      "type": "HR_MANUAL",
+      "data": 74,
+      "createdAt": "2024-06-12T06:08:32.223Z",
+      "updatedAt": "2024-06-12T06:08:32.223Z"
+    },
+    {
+      "type": "RR_MANUAL",
+      "data": 14,
+      "createdAt": "2024-06-14T12:10:24.120Z",
+      "updatedAt": "2024-06-14T12:10:24.120Z"
+    },
+    {
+      "type": "HR_AUTO",
+      "data": 62,
+      "measuredAt": "2024-06-15T02:47:41.878Z",
+      "createdAt": "2024-06-15T02:47:41.878Z",
+      "updatedAt": "2024-06-15T02:47:41.878Z"
+    },
+    {
+      "type": "RR_AUTO",
+      "data": 20,
+      "measuredAt": "2024-06-15T02:47:41.878Z",
+      "createdAt": "2024-06-15T02:47:41.878Z",
+      "updatedAt": "2024-06-15T02:47:41.878Z"
+    },
+    {
+      "type": "HR_AUTO",
+      "data": 74,
+      "measuredAt": "2024-06-15T02:48:14.489Z",
+      "createdAt": "2024-06-15T02:48:14.489Z",
+      "updatedAt": "2024-06-15T02:48:14.489Z"
+    },
+    {
+      "type": "RR_AUTO",
+      "data": 22,
+      "measuredAt": "2024-06-15T02:48:14.489Z",
+      "createdAt": "2024-06-15T02:48:14.489Z",
+      "updatedAt": "2024-06-15T02:48:14.489Z"
+    },
+    {
+      "type": "HR_AUTO",
+      "data": 66,
+      "measuredAt": "2024-06-15T02:48:50.843Z",
+      "createdAt": "2024-06-15T02:48:50.843Z",
+      "updatedAt": "2024-06-15T02:48:50.843Z"
+    },
+    {
+      "type": "RR_AUTO",
+      "data": 16,
+      "measuredAt": "2024-06-15T02:48:50.843Z",
+      "createdAt": "2024-06-15T02:48:50.843Z",
+      "updatedAt": "2024-06-15T02:48:50.843Z"
+    },
+    {
+      "type": "HR_AUTO",
+      "data": 76,
+      "measuredAt": "2024-06-15T02:50:04.393Z",
+      "createdAt": "2024-06-15T02:50:04.393Z",
+      "updatedAt": "2024-06-15T02:50:04.393Z"
+    },
+    {
+      "type": "RR_AUTO",
+      "data": 22,
+      "measuredAt": "2024-06-15T02:50:04.393Z",
+      "createdAt": "2024-06-15T02:50:04.393Z",
+      "updatedAt": "2024-06-15T02:50:04.393Z"
+    },
+    {
+      "type": "HR_AUTO",
+      "data": 74,
+      "measuredAt": "2024-06-15T02:50:37.934Z",
+      "createdAt": "2024-06-15T02:50:37.934Z",
+      "updatedAt": "2024-06-15T02:50:37.934Z"
+    },
+    {
+      "type": "RR_AUTO",
+      "data": 22,
+      "measuredAt": "2024-06-04T02:50:37.934Z",
+      "createdAt": "2024-06-04T02:50:37.934Z",
+      "updatedAt": "2024-06-04T02:50:37.934Z"
+    },
+    {
+      "type": "HR_AUTO",
+      "data": 70,
+      "measuredAt": "2024-06-03T02:52:23.849Z",
+      "createdAt": "2024-06-03T02:52:23.849Z",
+      "updatedAt": "2024-06-03T02:52:23.849Z"
+    },
+    {
+      "type": "RR_AUTO",
+      "data": 18,
+      "measuredAt": "2024-06-15T02:52:23.849Z",
+      "createdAt": "2024-06-15T02:52:23.849Z",
+      "updatedAt": "2024-06-15T02:52:23.849Z"
+    },
+    {
+      "type": "HR_AUTO",
+      "data": 78,
+      "measuredAt": "2024-06-06T02:53:48.274Z",
+      "createdAt": "2024-06-06T02:53:48.274Z",
+      "updatedAt": "2024-06-06T02:53:48.274Z"
+    },
+    {
+      "type": "RR_AUTO",
+      "data": 20,
+      "measuredAt": "2024-06-07T02:53:48.274Z",
+      "createdAt": "2024-06-07T02:53:48.274Z",
+      "updatedAt": "2024-06-07T02:53:48.274Z"
+    },
+    {
+      "type": "HR_AUTO",
+      "data": 22,
+      "measuredAt": "2024-06-08T02:41:52.914Z",
+      "createdAt": "2024-06-08T02:41:52.914Z",
+      "updatedAt": "2024-06-08T02:41:52.914Z"
+    },
+    {
+      "type": "RR_AUTO",
+      "data": 10,
+      "measuredAt": "2024-06-14T02:41:52.914Z",
+      "createdAt": "2024-06-22T02:41:52.914Z",
+      "updatedAt": "2024-06-22T02:41:52.914Z"
+    },
+    {
+      "type": "HR_AUTO",
+      "data": 64,
+      "measuredAt": "2024-06-15T02:43:31.241Z",
+      "createdAt": "2024-06-15T02:43:31.241Z",
+      "updatedAt": "2024-06-15T02:43:31.241Z"
+    },
+    {
+      "type": "RR_AUTO",
+      "data": 16,
+      "measuredAt": "2024-06-15T02:43:31.241Z",
+      "createdAt": "2024-06-15T02:43:31.241Z",
+      "updatedAt": "2024-06-15T02:43:31.241Z"
+    },
+    {
+      "type": "HR_AUTO",
+      "data": 70,
+      "measuredAt": "2024-06-15T02:44:03.090Z",
+      "createdAt": "2024-06-15T02:44:03.090Z",
+      "updatedAt": "2024-06-15T02:44:03.090Z"
+    },
+    {
+      "type": "RR_AUTO",
+      "data": 16,
+      "measuredAt": "2024-06-15T02:44:03.090Z",
+      "createdAt": "2024-06-15T02:44:03.090Z",
+      "updatedAt": "2024-06-15T02:44:03.090Z"
+    },
+    {
+      "type": "HR_AUTO",
+      "data": 66,
+      "measuredAt": "2024-06-15T02:44:35.809Z",
+      "createdAt": "2024-06-15T02:44:35.809Z",
+      "updatedAt": "2024-06-15T02:44:35.809Z"
+    },
+    {
+      "type": "RR_AUTO",
+      "data": 20,
+      "measuredAt": "2024-06-15T02:44:35.809Z",
+      "createdAt": "2024-06-15T02:44:35.809Z",
+      "updatedAt": "2024-06-15T02:44:35.809Z"
+    },
+    {
+      "type": "HR_AUTO",
+      "data": 68,
+      "measuredAt": "2024-06-15T02:45:08.955Z",
+      "createdAt": "2024-06-15T02:45:08.955Z",
+      "updatedAt": "2024-06-15T02:45:08.955Z"
+    },
+    {
+      "type": "RR_AUTO",
+      "data": 18,
+      "measuredAt": "2024-06-15T02:45:08.955Z",
+      "createdAt": "2024-06-15T02:45:08.955Z",
+      "updatedAt": "2024-06-15T02:45:08.955Z"
+    },
+    {
+      "type": "HR_AUTO",
+      "data": 16,
+      "measuredAt": "2024-06-15T02:45:49.261Z",
+      "createdAt": "2024-06-15T02:45:49.261Z",
+      "updatedAt": "2024-06-15T02:45:49.261Z"
+    },
+    {
+      "type": "RR_AUTO",
+      "data": 16,
+      "measuredAt": "2024-06-15T02:45:49.261Z",
+      "createdAt": "2024-06-15T02:45:49.261Z",
+      "updatedAt": "2024-06-15T02:45:49.261Z"
+    },
+    {
+      "type": "HR_AUTO",
+      "data": 52,
+      "measuredAt": "2024-06-16T02:46:36.851Z",
+      "createdAt": "2024-06-16T02:46:36.851Z",
+      "updatedAt": "2024-06-16T02:46:36.851Z"
+    },
+    {
+      "type": "RR_AUTO",
+      "data": 18,
+      "measuredAt": "2024-06-16T02:46:36.851Z",
+      "createdAt": "2024-06-16T02:46:36.851Z",
+      "updatedAt": "2024-06-16T02:46:36.851Z"
+    },
+    {
+      "type": "HR_AUTO",
+      "data": 44,
+      "measuredAt": "2024-06-18T02:47:10.419Z",
+      "createdAt": "2024-06-18T02:47:10.419Z",
+      "updatedAt": "2024-06-18T02:47:10.419Z"
+    },
+    {
+      "type": "RR_AUTO",
+      "data": 16,
+      "measuredAt": "2024-06-18T02:47:10.419Z",
+      "createdAt": "2024-06-18T02:47:10.419Z",
+      "updatedAt": "2024-06-18T02:47:10.419Z"
+    }
+
+  ],
+  "weights": [
+    {
+      "weight": 80,
+      "unit": "kg",
+      "date": "2024-06-03T02:40:58.572Z"
+    },
+    {
+      "weight": 75,
+      "unit": "kg",
+      "date": "2024-06-05T02:41:02.108Z"
+    },
+    {
+      "weight": 69,
+      "unit": "kg",
+      "date": "2024-06-06T02:41:13.340Z"
+    },
+    {
+      "weight": 75,
+      "unit": "kg",
+      "date": "2024-06-13T02:41:16.359Z"
+    },
+    {
+      "weight": 79,
+      "unit": "kg",
+      "date": "2024-06-07T02:41:19.182Z"
+    },
+    {
+      "weight": 86,
+      "unit": "kg",
+      "date": "2024-06-08T02:41:21.997Z"
+    },
+    {
+      "weight": 85,
+      "unit": "kg",
+      "date": "2024-06-22T02:41:24.824Z"
+    },
+    {
+      "weight": 80,
+      "unit": "kg",
+      "date": "2024-06-10T02:41:35.352Z"
+    },
+    {
+      "weight": 70,
+      "unit": "kg",
+      "date": "2024-06-11T02:41:38.118Z"
+    },
+    {
+      "weight": 69,
+      "unit": "kg",
+      "date": "2024-06-26T02:41:41.235Z"
+    },
+    {
+      "weight": 75,
+      "unit": "kg",
+      "date": "2024-06-29T02:41:44.448Z"
+    },
+    {
+      "weight": 79,
+      "unit": "kg",
+      "date": "2024-06-29T02:41:47.040Z"
+    },
+    {
+      "weight": 80,
+      "unit": "kg",
+      "date": "2024-06-02T02:41:50.059Z"
+    },
+    {
+      "weight": 79,
+      "unit": "kg",
+      "date": "2024-06-03T02:41:52.755Z"
+    },
+    {
+      "weight": 79,
+      "unit": "kg",
+      "date": "2024-06-04T02:41:55.896Z"
+    },
+    {
+      "weight": 79,
+      "unit": "kg",
+      "date": "2024-06-05T02:41:58.359Z"
+    },
+    {
+      "weight": 79,
+      "unit": "kg",
+      "date": "2024-06-06T02:42:01.634Z"
+    },
+    {
+      "weight": 80,
+      "unit": "kg",
+      "date": "2024-06-07T02:42:05.152Z"
+    },
+    {
+      "weight": 80,
+      "unit": "kg",
+      "date": "2024-06-08T02:42:16.383Z"
+    },
+    {
+      "weight": 75,
+      "unit": "kg",
+      "date": "2024-06-12T02:42:22.946Z"
+    },
+    {
+      "weight": 73,
+      "unit": "kg",
+      "date": "2024-06-10T02:42:26.411Z"
+    },
+    {
+      "weight": 72,
+      "unit": "kg",
+      "date": "2024-06-11T02:42:30.038Z"
+    },
+    {
+      "weight": 70,
+      "unit": "kg",
+      "date": "2024-06-12T02:42:33.900Z"
+    },
+    {
+      "weight": 75,
+      "unit": "kg",
+      "date": "2024-06-13T02:42:37.833Z"
+    },
+    {
+      "weight": 80,
+      "unit": "kg",
+      "date": "2024-06-14T02:42:41.348Z"
+    },
+    {
+      "weight": 79,
+      "unit": "kg",
+      "date": "2024-06-15T02:42:44.522Z"
+    },
+    {
+      "weight": 78,
+      "unit": "kg",
+      "date": "2024-06-16T02:42:47.500Z"
+    },
+    {
+      "weight": 79,
+      "unit": "kg",
+      "date": "2024-06-17T02:42:57.830Z"
+    },
+    {
+      "weight": 80,
+      "unit": "kg",
+      "date": "2024-06-18T02:43:00.941Z"
+    }
+  ]
+}

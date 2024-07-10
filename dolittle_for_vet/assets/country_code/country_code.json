@@ -1,0 +1,1365 @@
+{
+  "countryList":[ {
+    "numericCode": "383",
+    "countryName": "Kosovo",
+    "tld": "XK",
+    "countryNumberCode": "383"
+  },
+   {
+    "numericCode": "020",
+    "countryName": "Andorra",
+    "tld": "AD",
+    "countryNumberCode": "376"
+  },
+   {
+    "numericCode": "784",
+    "countryName": "United Arab Emirates",
+    "tld": "AE",
+    "countryNumberCode": "971"
+  },
+   {
+    "numericCode": "004",
+    "countryName": "Afghanistan",
+    "tld": "AF",
+    "countryNumberCode": "93"
+  },
+   {
+    "numericCode": "028",
+    "countryName": "Antigua and Barbuda",
+    "tld": "AG",
+    "countryNumberCode": "1-268"
+  },
+   {
+    "numericCode": "660",
+    "countryName": "Anguilla",
+    "tld": "AI",
+    "countryNumberCode": "1-264"
+  },
+   {
+    "numericCode": "008",
+    "countryName": "Albania",
+    "tld": "AL",
+    "countryNumberCode": "355"
+  },
+   {
+    "numericCode": "051",
+    "countryName": "Armenia",
+    "tld": "AM",
+    "countryNumberCode": "374"
+  },
+   {
+    "numericCode": "024",
+    "countryName": "Angola",
+    "tld": "AO",
+    "countryNumberCode": "244"
+  },
+
+   {
+    "numericCode": "032",
+    "countryName": "Argentina",
+    "tld": "AR",
+    "countryNumberCode": "54"
+  },
+   {
+    "numericCode": "016",
+    "countryName": "American Samoa",
+    "tld": "AS",
+    "countryNumberCode": "1-684"
+  },
+   {
+    "numericCode": "040",
+    "countryName": "Austria",
+    "tld": "AT",
+    "countryNumberCode": "43"
+  },
+   {
+    "numericCode": "036",
+    "countryName": "Australia",
+    "tld": "AU",
+    "countryNumberCode": "61"
+  },
+   {
+    "numericCode": "533",
+    "countryName": "Aruba",
+    "tld": "AW",
+    "countryNumberCode": "297"
+  },
+   {
+    "numericCode": "031",
+    "countryName": "Azerbaijan",
+    "tld": "AZ",
+    "countryNumberCode": "994"
+  },
+   {
+    "numericCode": "070",
+    "countryName": "Bosnia and Herzegovina",
+    "tld": "BA",
+    "countryNumberCode": "387"
+  },
+   {
+    "numericCode": "052",
+    "countryName": "Barbados",
+    "tld": "BB",
+    "countryNumberCode": "1-246"
+  },
+   {
+    "numericCode": "050",
+    "countryName": "Bangladesh",
+    "tld": "BD",
+    "countryNumberCode": "880"
+  },
+   {
+    "numericCode": "056",
+    "countryName": "Belgium",
+    "tld": "BE",
+    "countryNumberCode": "32"
+  },
+   {
+    "numericCode": "854",
+    "countryName": "Burkina Faso",
+    "tld": "BF",
+    "countryNumberCode": "226"
+  },
+   {
+    "numericCode": "100",
+    "countryName": "Bulgaria",
+    "tld": "BG",
+    "countryNumberCode": "359"
+  },
+   {
+    "numericCode": "048",
+    "countryName": "Bahrain",
+    "tld": "BH",
+    "countryNumberCode": "973"
+  },
+   {
+    "numericCode": "108",
+    "countryName": "Burundi",
+    "tld": "BI",
+    "countryNumberCode": "257"
+  },
+   {
+    "numericCode": "204",
+    "countryName": "Benin",
+    "tld": "BJ",
+    "countryNumberCode": "229"
+  },
+   {
+    "numericCode": "652",
+    "countryName": "Saint Barthélemy",
+    "tld": "BL",
+    "countryNumberCode": "590"
+  },
+   {
+    "numericCode": "060",
+    "countryName": "Bermuda",
+    "tld": "BM",
+    "countryNumberCode": "1-441"
+  },
+
+   {
+    "numericCode": "068",
+    "countryName": "Bolivia",
+    "tld": "BO",
+    "countryNumberCode": "591"
+  },
+   {
+    "numericCode": "535",
+    "countryName": "Bonaire, Sint Eustatius and Saba",
+    "tld": "BQ",
+    "countryNumberCode": "599"
+  },
+   {
+    "numericCode": "076",
+    "countryName": "Brazil",
+    "tld": "BR",
+    "countryNumberCode": "55"
+  },
+   {
+    "numericCode": "044",
+    "countryName": "Bahamas",
+    "tld": "BS",
+    "countryNumberCode": "1-242"
+  },
+   {
+    "numericCode": "064",
+    "countryName": "Bhutan",
+    "tld": "BT",
+    "countryNumberCode": "975"
+  },
+
+   {
+    "numericCode": "072",
+    "countryName": "Botswana",
+    "tld": "BW",
+    "countryNumberCode": "267"
+  },
+   {
+    "numericCode": "112",
+    "countryName": "Belarus",
+    "tld": "BY",
+    "countryNumberCode": "375"
+  },
+   {
+    "numericCode": "084",
+    "countryName": "Belize",
+    "tld": "BZ",
+    "countryNumberCode": "501"
+  },
+   {
+    "numericCode": "124",
+    "countryName": "Canada",
+    "tld": "CA",
+    "countryNumberCode": "1"
+  },
+   {
+    "numericCode": "166",
+    "countryName": "Cocos (Keeling) Islands",
+    "tld": "CC",
+    "countryNumberCode": "61"
+  },
+
+   {
+    "numericCode": "140",
+    "countryName": "Central African Republic",
+    "tld": "CF",
+    "countryNumberCode": "236"
+  },
+   {
+    "numericCode": "178",
+    "countryName": "Congo",
+    "tld": "CG",
+    "countryNumberCode": "242"
+  },
+   {
+    "numericCode": "756",
+    "countryName": "Switzerland",
+    "tld": "CH",
+    "countryNumberCode": "41"
+  },
+
+   {
+    "numericCode": "184",
+    "countryName": "Cook Islands",
+    "tld": "CK",
+    "countryNumberCode": "682"
+  },
+   {
+    "numericCode": "152",
+    "countryName": "Chile",
+    "tld": "CL",
+    "countryNumberCode": "56"
+  },
+   {
+    "numericCode": "120",
+    "countryName": "Cameroon",
+    "tld": "CM",
+    "countryNumberCode": "237"
+  },
+   {
+    "numericCode": "156",
+    "countryName": "China",
+    "tld": "CN",
+    "countryNumberCode": "86"
+  },
+   {
+    "numericCode": "170",
+    "countryName": "Colombia",
+    "tld": "CO",
+    "countryNumberCode": "57"
+  },
+   {
+    "numericCode": "188",
+    "countryName": "Costa Rica",
+    "tld": "CR",
+    "countryNumberCode": "506"
+  },
+   {
+    "numericCode": "192",
+    "countryName": "Cuba",
+    "tld": "CU",
+    "countryNumberCode": "53"
+  },
+
+   {
+    "numericCode": "531",
+    "countryName": "Curaçao",
+    "tld": "CW",
+    "countryNumberCode": "599"
+  },
+   {
+    "numericCode": "162",
+    "countryName": "Christmas Island",
+    "tld": "CX",
+    "countryNumberCode": "61"
+  },
+   {
+    "numericCode": "196",
+    "countryName": "Cyprus",
+    "tld": "CY",
+    "countryNumberCode": "357"
+  },
+   {
+    "numericCode": "203",
+    "countryName": "Czech Republic",
+    "tld": "CZ",
+    "countryNumberCode": "420"
+  },
+   {
+    "numericCode": "276",
+    "countryName": "Germany",
+    "tld": "DE",
+    "countryNumberCode": "49"
+  },
+   {
+    "numericCode": "262",
+    "countryName": "Djibouti",
+    "tld": "DJ",
+    "countryNumberCode": "253"
+  },
+   {
+    "numericCode": "208",
+    "countryName": "Denmark",
+    "tld": "DK",
+    "countryNumberCode": "45"
+  },
+   {
+    "numericCode": "212",
+    "countryName": "Dominica",
+    "tld": "DM",
+    "countryNumberCode": "1-767"
+  },
+   {
+    "numericCode": "214",
+    "countryName": "Dominican Republic",
+    "tld": "DO",
+    "countryNumberCode": "1-809"
+  },
+   {
+    "numericCode": "012",
+    "countryName": "Algeria",
+    "tld": "DZ",
+    "countryNumberCode": "213"
+  },
+   {
+    "numericCode": "218",
+    "countryName": "Ecuador",
+    "tld": "EC",
+    "countryNumberCode": "593"
+  },
+   {
+    "numericCode": "233",
+    "countryName": "Estonia",
+    "tld": "EE",
+    "countryNumberCode": "372"
+  },
+   {
+    "numericCode": "818",
+    "countryName": "Egypt",
+    "tld": "EG",
+    "countryNumberCode": "20"
+  },
+
+   {
+    "numericCode": "232",
+    "countryName": "Eritrea",
+    "tld": "ER",
+    "countryNumberCode": "291"
+  },
+   {
+    "numericCode": "724",
+    "countryName": "Spain",
+    "tld": "ES",
+    "countryNumberCode": "34"
+  },
+   {
+    "numericCode": "231",
+    "countryName": "Ethiopia",
+    "tld": "ET",
+    "countryNumberCode": "251"
+  },
+   {
+    "numericCode": "246",
+    "countryName": "Finland",
+    "tld": "FI",
+    "countryNumberCode": "358"
+  },
+   {
+    "numericCode": "242",
+    "countryName": "Fiji",
+    "tld": "FJ",
+    "countryNumberCode": "679"
+  },
+
+   {
+    "numericCode": "234",
+    "countryName": "Faroe Islands",
+    "tld": "FO",
+    "countryNumberCode": "298"
+  },
+   {
+    "numericCode": "250",
+    "countryName": "France",
+    "tld": "FR",
+    "countryNumberCode": "33"
+  },
+   {
+    "numericCode": "266",
+    "countryName": "Gabon",
+    "tld": "GA",
+    "countryNumberCode": "241"
+  },
+   {
+    "numericCode": "826",
+    "countryName": "United Kingdom",
+    "tld": "GB",
+    "countryNumberCode": "44"
+  },
+   {
+    "numericCode": "308",
+    "countryName": "Grenada",
+    "tld": "GD",
+    "countryNumberCode": "1-473"
+  },
+   {
+    "numericCode": "268",
+    "countryName": "Georgia",
+    "tld": "GE",
+    "countryNumberCode": "995"
+  },
+   {
+    "numericCode": "254",
+    "countryName": "French Guiana",
+    "tld": "GF",
+    "countryNumberCode": "594"
+  },
+   {
+    "numericCode": "831",
+    "countryName": "Guernsey",
+    "tld": "GG",
+    "countryNumberCode": "44"
+  },
+   {
+    "numericCode": "288",
+    "countryName": "Ghana",
+    "tld": "GH",
+    "countryNumberCode": "233"
+  },
+   {
+    "numericCode": "292",
+    "countryName": "Gibraltar",
+    "tld": "GI",
+    "countryNumberCode": "350"
+  },
+   {
+    "numericCode": "304",
+    "countryName": "Greenland",
+    "tld": "GL",
+    "countryNumberCode": "299"
+  },
+   {
+    "numericCode": "270",
+    "countryName": "Gambia",
+    "tld": "GM",
+    "countryNumberCode": "220"
+  },
+   {
+    "numericCode": "324",
+    "countryName": "Guinea",
+    "tld": "GN",
+    "countryNumberCode": "224"
+  },
+   {
+    "numericCode": "312",
+    "countryName": "Guadeloupe",
+    "tld": "GP",
+    "countryNumberCode": "590"
+  },
+   {
+    "numericCode": "226",
+    "countryName": "Equatorial Guinea",
+    "tld": "GQ",
+    "countryNumberCode": "240"
+  },
+   {
+    "numericCode": "300",
+    "countryName": "Greece",
+    "tld": "GR",
+    "countryNumberCode": "30"
+  },
+
+   {
+    "numericCode": "320",
+    "countryName": "Guatemala",
+    "tld": "GT",
+    "countryNumberCode": "502"
+  },
+   {
+    "numericCode": "316",
+    "countryName": "Guam",
+    "tld": "GU",
+    "countryNumberCode": "1-671"
+  },
+   {
+    "numericCode": "624",
+    "countryName": "Guinea-Bissau",
+    "tld": "GW",
+    "countryNumberCode": "245"
+  },
+   {
+    "numericCode": "328",
+    "countryName": "Guyana",
+    "tld": "GY",
+    "countryNumberCode": "592"
+  },
+   {
+    "numericCode": "344",
+    "countryName": "Hong Kong",
+    "tld": "HK",
+    "countryNumberCode": "852"
+  },
+
+   {
+    "numericCode": "340",
+    "countryName": "Honduras",
+    "tld": "HN",
+    "countryNumberCode": "504"
+  },
+   {
+    "numericCode": "191",
+    "countryName": "Croatia",
+    "tld": "HR",
+    "countryNumberCode": "385"
+  },
+   {
+    "numericCode": "332",
+    "countryName": "Haiti",
+    "tld": "HT",
+    "countryNumberCode": "509"
+  },
+   {
+    "numericCode": "348",
+    "countryName": "Hungary",
+    "tld": "HU",
+    "countryNumberCode": "36"
+  },
+   {
+    "numericCode": "360",
+    "countryName": "Indonesia",
+    "tld": "ID",
+    "countryNumberCode": "62"
+  },
+   {
+    "numericCode": "372",
+    "countryName": "Ireland",
+    "tld": "IE",
+    "countryNumberCode": "353"
+  },
+   {
+    "numericCode": "376",
+    "countryName": "Israel",
+    "tld": "IL",
+    "countryNumberCode": "972"
+  },
+   {
+    "numericCode": "833",
+    "countryName": "Isle of Man",
+    "tld": "IM",
+    "countryNumberCode": "44"
+  },
+   {
+    "numericCode": "356",
+    "countryName": "India",
+    "tld": "IN",
+    "countryNumberCode": "91"
+  },
+
+   {
+    "numericCode": "368",
+    "countryName": "Iraq",
+    "tld": "IQ",
+    "countryNumberCode": "964"
+  },
+
+   {
+    "numericCode": "352",
+    "countryName": "Iceland",
+    "tld": "IS",
+    "countryNumberCode": "354"
+  },
+   {
+    "numericCode": "380",
+    "countryName": "Italy",
+    "tld": "IT",
+    "countryNumberCode": "39"
+  },
+   {
+    "numericCode": "832",
+    "countryName": "Jersey",
+    "tld": "JE",
+    "countryNumberCode": "44"
+  },
+   {
+    "numericCode": "388",
+    "countryName": "Jamaica",
+    "tld": "JM",
+    "countryNumberCode": "1-876"
+  },
+   {
+    "numericCode": "400",
+    "countryName": "Jordan",
+    "tld": "JO",
+    "countryNumberCode": "962"
+  },
+   {
+    "numericCode": "392",
+    "countryName": "Japan",
+    "tld": "JP",
+    "countryNumberCode": "81"
+  },
+   {
+    "numericCode": "404",
+    "countryName": "Kenya",
+    "tld": "KE",
+    "countryNumberCode": "254"
+  },
+   {
+    "numericCode": "417",
+    "countryName": "Kyrgyzstan",
+    "tld": "KG",
+    "countryNumberCode": "996"
+  },
+   {
+    "numericCode": "116",
+    "countryName": "Cambodia",
+    "tld": "KH",
+    "countryNumberCode": "855"
+  },
+   {
+    "numericCode": "296",
+    "countryName": "Kiribati",
+    "tld": "KI",
+    "countryNumberCode": "686"
+  },
+   {
+    "numericCode": "174",
+    "countryName": "Comoros",
+    "tld": "KM",
+    "countryNumberCode": "269"
+  },
+   {
+    "numericCode": "659",
+    "countryName": "Saint Kitts and Nevis",
+    "tld": "KN",
+    "countryNumberCode": "1-869"
+  },
+
+   {
+    "numericCode": "410",
+    "countryName": "Korea, Republic of",
+    "tld": "KR",
+    "countryNumberCode": "82"
+  },
+   {
+    "numericCode": "414",
+    "countryName": "Kuwait",
+    "tld": "KW",
+    "countryNumberCode": "965"
+  },
+   {
+    "numericCode": "136",
+    "countryName": "Cayman Islands",
+    "tld": "KY",
+    "countryNumberCode": "1-345"
+  },
+   {
+    "numericCode": "418",
+    "countryName": "Lao People's Democratic Republic",
+    "tld": "LA",
+    "countryNumberCode": "856"
+  },
+   {
+    "numericCode": "422",
+    "countryName": "Lebanon",
+    "tld": "LB",
+    "countryNumberCode": "961"
+  },
+   {
+    "numericCode": "662",
+    "countryName": "Saint Lucia",
+    "tld": "LC",
+    "countryNumberCode": "1-758"
+  },
+   {
+    "numericCode": "438",
+    "countryName": "Liechtenstein",
+    "tld": "LI",
+    "countryNumberCode": "423"
+  },
+   {
+    "numericCode": "144",
+    "countryName": "Sri Lanka",
+    "tld": "LK",
+    "countryNumberCode": "94"
+  },
+   {
+    "numericCode": "430",
+    "countryName": "Liberia",
+    "tld": "LR",
+    "countryNumberCode": "231"
+  },
+   {
+    "numericCode": "426",
+    "countryName": "Lesotho",
+    "tld": "LS",
+    "countryNumberCode": "266"
+  },
+   {
+    "numericCode": "440",
+    "countryName": "Lithuania",
+    "tld": "LT",
+    "countryNumberCode": "370"
+  },
+   {
+    "numericCode": "442",
+    "countryName": "Luxembourg",
+    "tld": "LU",
+    "countryNumberCode": "352"
+  },
+   {
+    "numericCode": "428",
+    "countryName": "Latvia",
+    "tld": "LV",
+    "countryNumberCode": "371"
+  },
+   {
+    "numericCode": "434",
+    "countryName": "Libya",
+    "tld": "LY",
+    "countryNumberCode": "218"
+  },
+   {
+    "numericCode": "504",
+    "countryName": "Morocco",
+    "tld": "MA",
+    "countryNumberCode": "212"
+  },
+   {
+    "numericCode": "492",
+    "countryName": "Monaco",
+    "tld": "MC",
+    "countryNumberCode": "377"
+  },
+   {
+    "numericCode": "499",
+    "countryName": "Montenegro",
+    "tld": "ME",
+    "countryNumberCode": "382"
+  },
+   {
+    "numericCode": "663",
+    "countryName": "Saint Martin (French part)",
+    "tld": "MF",
+    "countryNumberCode": "590"
+  },
+   {
+    "numericCode": "450",
+    "countryName": "Madagascar",
+    "tld": "MG",
+    "countryNumberCode": "261"
+  },
+   {
+    "numericCode": "584",
+    "countryName": "Marshall Islands",
+    "tld": "MH",
+    "countryNumberCode": "692"
+  },
+   {
+    "numericCode": "807",
+    "countryName": "Macedonia, the former Yugoslav Republic of",
+    "tld": "MK",
+    "countryNumberCode": "389"
+  },
+   {
+    "numericCode": "466",
+    "countryName": "Mali",
+    "tld": "ML",
+    "countryNumberCode": "223"
+  },
+   {
+    "numericCode": "104",
+    "countryName": "Myanmar",
+    "tld": "MM",
+    "countryNumberCode": "95"
+  },
+   {
+    "numericCode": "496",
+    "countryName": "Mongolia",
+    "tld": "MN",
+    "countryNumberCode": "976"
+  },
+   {
+    "numericCode": "446",
+    "countryName": "Macao",
+    "tld": "MO",
+    "countryNumberCode": "853"
+  },
+   {
+    "numericCode": "580",
+    "countryName": "Northern Mariana Islands",
+    "tld": "MP",
+    "countryNumberCode": "1-670"
+  },
+   {
+    "numericCode": "474",
+    "countryName": "Martinique",
+    "tld": "MQ",
+    "countryNumberCode": "596"
+  },
+   {
+    "numericCode": "478",
+    "countryName": "Mauritania",
+    "tld": "MR",
+    "countryNumberCode": "222"
+  },
+   {
+    "numericCode": "500",
+    "countryName": "Montserrat",
+    "tld": "MS",
+    "countryNumberCode": "1-664"
+  },
+   {
+    "numericCode": "470",
+    "countryName": "Malta",
+    "tld": "MT",
+    "countryNumberCode": "356"
+  },
+   {
+    "numericCode": "480",
+    "countryName": "Mauritius",
+    "tld": "MU",
+    "countryNumberCode": "230"
+  },
+   {
+    "numericCode": "462",
+    "countryName": "Maldives",
+    "tld": "MV",
+    "countryNumberCode": "960"
+  },
+   {
+    "numericCode": "454",
+    "countryName": "Malawi",
+    "tld": "MW",
+    "countryNumberCode": "265"
+  },
+   {
+    "numericCode": "484",
+    "countryName": "Mexico",
+    "tld": "MX",
+    "countryNumberCode": "52"
+  },
+   {
+    "numericCode": "458",
+    "countryName": "Malaysia",
+    "tld": "MY",
+    "countryNumberCode": "60"
+  },
+   {
+    "numericCode": "508",
+    "countryName": "Mozambique",
+    "tld": "MZ",
+    "countryNumberCode": "258"
+  },
+   {
+    "numericCode": "516",
+    "countryName": "Namibia",
+    "tld": "NA",
+    "countryNumberCode": "264"
+  },
+   {
+    "numericCode": "540",
+    "countryName": "New Caledonia",
+    "tld": "NC",
+    "countryNumberCode": "687"
+  },
+   {
+    "numericCode": "562",
+    "countryName": "Niger",
+    "tld": "NE",
+    "countryNumberCode": "227"
+  },
+   {
+    "numericCode": "574",
+    "countryName": "Norfolk Island",
+    "tld": "NF",
+    "countryNumberCode": "672"
+  },
+   {
+    "numericCode": "566",
+    "countryName": "Nigeria",
+    "tld": "NG",
+    "countryNumberCode": "234"
+  },
+   {
+    "numericCode": "558",
+    "countryName": "Nicaragua",
+    "tld": "NI",
+    "countryNumberCode": "505"
+  },
+   {
+    "numericCode": "528",
+    "countryName": "Netherlands",
+    "tld": "NL",
+    "countryNumberCode": "31"
+  },
+   {
+    "numericCode": "578",
+    "countryName": "Norway",
+    "tld": "NO",
+    "countryNumberCode": "47"
+  },
+   {
+    "numericCode": "524",
+    "countryName": "Nepal",
+    "tld": "NP",
+    "countryNumberCode": "977"
+  },
+   {
+    "numericCode": "520",
+    "countryName": "Nauru",
+    "tld": "NR",
+    "countryNumberCode": "674"
+  },
+   {
+    "numericCode": "570",
+    "countryName": "Niue",
+    "tld": "NU",
+    "countryNumberCode": "683"
+  },
+   {
+    "numericCode": "554",
+    "countryName": "New Zealand",
+    "tld": "NZ",
+    "countryNumberCode": "64"
+  },
+   {
+    "numericCode": "512",
+    "countryName": "Oman",
+    "tld": "OM",
+    "countryNumberCode": "968"
+  },
+   {
+    "numericCode": "591",
+    "countryName": "Panama",
+    "tld": "PA",
+    "countryNumberCode": "507"
+  },
+   {
+    "numericCode": "604",
+    "countryName": "Peru",
+    "tld": "PE",
+    "countryNumberCode": "51"
+  },
+   {
+    "numericCode": "258",
+    "countryName": "French Polynesia",
+    "tld": "PF",
+    "countryNumberCode": "689"
+  },
+   {
+    "numericCode": "598",
+    "countryName": "Papua New Guinea",
+    "tld": "PG",
+    "countryNumberCode": "675"
+  },
+   {
+    "numericCode": "608",
+    "countryName": "Philippines",
+    "tld": "PH",
+    "countryNumberCode": "63"
+  },
+   {
+    "numericCode": "586",
+    "countryName": "Pakistan",
+    "tld": "PK",
+    "countryNumberCode": "92"
+  },
+   {
+    "numericCode": "616",
+    "countryName": "Poland",
+    "tld": "PL",
+    "countryNumberCode": "48"
+  },
+   {
+    "numericCode": "666",
+    "countryName": "Saint Pierre and Miquelon",
+    "tld": "PM",
+    "countryNumberCode": "508"
+  },
+   {
+    "numericCode": "275",
+    "countryName": "Palestine, State of",
+    "tld": "PS",
+    "countryNumberCode": "970"
+  },
+   {
+    "numericCode": "620",
+    "countryName": "Portugal",
+    "tld": "PT",
+    "countryNumberCode": "351"
+  },
+   {
+    "numericCode": "585",
+    "countryName": "Palau",
+    "tld": "PW",
+    "countryNumberCode": "680"
+  },
+   {
+    "numericCode": "600",
+    "countryName": "Paraguay",
+    "tld": "PY",
+    "countryNumberCode": "595"
+  },
+   {
+    "numericCode": "634",
+    "countryName": "Qatar",
+    "tld": "QA",
+    "countryNumberCode": "974"
+  },
+
+   {
+    "numericCode": "642",
+    "countryName": "Romania",
+    "tld": "RO",
+    "countryNumberCode": "40"
+  },
+   {
+    "numericCode": "688",
+    "countryName": "Serbia",
+    "tld": "RS",
+    "countryNumberCode": "381"
+  },
+   {
+    "numericCode": "643",
+    "countryName": "Russian Federation",
+    "tld": "RU",
+    "countryNumberCode": "7"
+  },
+   {
+    "numericCode": "646",
+    "countryName": "Rwanda",
+    "tld": "RW",
+    "countryNumberCode": "250"
+  },
+   {
+    "numericCode": "682",
+    "countryName": "Saudi Arabia",
+    "tld": "SA",
+    "countryNumberCode": "966"
+  },
+   {
+    "numericCode": "090",
+    "countryName": "Solomon Islands",
+    "tld": "SB",
+    "countryNumberCode": "677"
+  },
+   {
+    "numericCode": "690",
+    "countryName": "Seychelles",
+    "tld": "SC",
+    "countryNumberCode": "248"
+  },
+   {
+    "numericCode": "729",
+    "countryName": "Sudan",
+    "tld": "SD",
+    "countryNumberCode": "249"
+  },
+   {
+    "numericCode": "752",
+    "countryName": "Sweden",
+    "tld": "SE",
+    "countryNumberCode": "46"
+  },
+   {
+    "numericCode": "702",
+    "countryName": "Singapore",
+    "tld": "SG",
+    "countryNumberCode": "65"
+  },
+   {
+    "numericCode": "705",
+    "countryName": "Slovenia",
+    "tld": "SI",
+    "countryNumberCode": "386"
+  },
+   {
+    "numericCode": "744",
+    "countryName": "Svalbard and Jan Mayen",
+    "tld": "SJ",
+    "countryNumberCode": "47"
+  },
+   {
+    "numericCode": "703",
+    "countryName": "Slovakia",
+    "tld": "SK",
+    "countryNumberCode": "421"
+  },
+   {
+    "numericCode": "694",
+    "countryName": "Sierra Leone",
+    "tld": "SL",
+    "countryNumberCode": "232"
+  },
+   {
+    "numericCode": "674",
+    "countryName": "San Marino",
+    "tld": "SM",
+    "countryNumberCode": "378"
+  },
+   {
+    "numericCode": "686",
+    "countryName": "Senegal",
+    "tld": "SN",
+    "countryNumberCode": "221"
+  },
+   {
+    "numericCode": "706",
+    "countryName": "Somalia",
+    "tld": "SO",
+    "countryNumberCode": "252"
+  },
+   {
+    "numericCode": "740",
+    "countryName": "Suriname",
+    "tld": "SR",
+    "countryNumberCode": "597"
+  },
+   {
+    "numericCode": "728",
+    "countryName": "South Sudan",
+    "tld": "SS",
+    "countryNumberCode": "211"
+  },
+   {
+    "numericCode": "678",
+    "countryName": "Sao Tome and Principe",
+    "tld": "ST",
+    "countryNumberCode": "239"
+  },
+   {
+    "numericCode": "222",
+    "countryName": "El Salvador",
+    "tld": "SV",
+    "countryNumberCode": "503"
+  },
+   {
+    "numericCode": "534",
+    "countryName": "Sint Maarten (Dutch part)",
+    "tld": "SX",
+    "countryNumberCode": "1-721"
+  },
+   {
+    "numericCode": "760",
+    "countryName": "Syrian Arab Republic",
+    "tld": "SY",
+    "countryNumberCode": "934"
+  },
+
+   {
+    "numericCode": "796",
+    "countryName": "Turks and Caicos Islands",
+    "tld": "TC",
+    "countryNumberCode": "1-649"
+  },
+   {
+    "numericCode": "148",
+    "countryName": "Chad",
+    "tld": "TD",
+    "countryNumberCode": "235"
+  },
+
+   {
+    "numericCode": "768",
+    "countryName": "Togo",
+    "tld": "TG",
+    "countryNumberCode": "228"
+  },
+   {
+    "numericCode": "764",
+    "countryName": "Thailand",
+    "tld": "TH",
+    "countryNumberCode": "66"
+  },
+   {
+    "numericCode": "762",
+    "countryName": "Tajikistan",
+    "tld": "TJ",
+    "countryNumberCode": "992"
+  },
+   {
+    "numericCode": "772",
+    "countryName": "Tokelau",
+    "tld": "TK",
+    "countryNumberCode": "690"
+  },
+   {
+    "numericCode": "795",
+    "countryName": "Turkmenistan",
+    "tld": "TM",
+    "countryNumberCode": "993"
+  },
+   {
+    "numericCode": "788",
+    "countryName": "Tunisia",
+    "tld": "TN",
+    "countryNumberCode": "216"
+  },
+   {
+    "numericCode": "776",
+    "countryName": "Tonga",
+    "tld": "TO",
+    "countryNumberCode": "676"
+  },
+   {
+    "numericCode": "792",
+    "countryName": "Turkey",
+    "tld": "TR",
+    "countryNumberCode": "90"
+  },
+   {
+    "numericCode": "780",
+    "countryName": "Trinidad and Tobago",
+    "tld": "TT",
+    "countryNumberCode": "1-868"
+  },
+   {
+    "numericCode": "798",
+    "countryName": "Tuvalu",
+    "tld": "TV",
+    "countryNumberCode": "688"
+  },
+   {
+    "numericCode": "158",
+    "countryName": "Taiwan, Province of China",
+    "tld": "TW",
+    "countryNumberCode": "886"
+  },
+   {
+    "numericCode": "834",
+    "countryName": "Tanzania, United Republic of",
+    "tld": "TZ",
+    "countryNumberCode": "255"
+  },
+   {
+    "numericCode": "804",
+    "countryName": "Ukraine",
+    "tld": "UA",
+    "countryNumberCode": "380"
+  },
+   {
+    "numericCode": "800",
+    "countryName": "Uganda",
+    "tld": "UG",
+    "countryNumberCode": "256"
+  },
+
+   {
+    "numericCode": "840",
+    "countryName": "United States",
+    "tld": "US",
+    "countryNumberCode": "1"
+  },
+   {
+    "numericCode": "858",
+    "countryName": "Uruguay",
+    "tld": "UY",
+    "countryNumberCode": "598"
+  },
+   {
+    "numericCode": "860",
+    "countryName": "Uzbekistan",
+    "tld": "UZ",
+    "countryNumberCode": "998"
+  },
+
+   {
+    "numericCode": "670",
+    "countryName": "Saint Vincent and the Grenadines",
+    "tld": "VC",
+    "countryNumberCode": "1-784"
+  },
+   {
+    "numericCode": "862",
+    "countryName": "Venezuela, Bolivarian Republic of",
+    "tld": "VE",
+    "countryNumberCode": "58"
+  },
+   {
+    "numericCode": "092",
+    "countryName": "Virgin Islands, British",
+    "tld": "VG",
+    "countryNumberCode": "1-284"
+  },
+   {
+    "numericCode": "850",
+    "countryName": "Virgin Islands, U.S.",
+    "tld": "VI",
+    "countryNumberCode": "1-340"
+  },
+   {
+    "numericCode": "704",
+    "countryName": "Viet Nam",
+    "tld": "VN",
+    "countryNumberCode": "84"
+  },
+   {
+    "numericCode": "548",
+    "countryName": "Vanuatu",
+    "tld": "VU",
+    "countryNumberCode": "678"
+  },
+   {
+    "numericCode": "876",
+    "countryName": "Wallis and Futuna",
+    "tld": "WF",
+    "countryNumberCode": "681"
+  },
+   {
+    "numericCode": "882",
+    "countryName": "Samoa",
+    "tld": "WS",
+    "countryNumberCode": "685"
+  },
+   {
+    "numericCode": "887",
+    "countryName": "Yemen",
+    "tld": "YE",
+    "countryNumberCode": "967"
+  },
+   {
+    "numericCode": "175",
+    "countryName": "Mayotte",
+    "tld": "YT",
+    "countryNumberCode": "262"
+  },
+   {
+    "numericCode": "710",
+    "countryName": "South Africa",
+    "tld": "ZA",
+    "countryNumberCode": "27"
+  },
+   {
+    "numericCode": "894",
+    "countryName": "Zambia",
+    "tld": "ZM",
+    "countryNumberCode": "260"
+  },
+   {
+    "numericCode": "716",
+    "countryName": "Zimbabwe",
+    "tld": "ZW",
+    "countryNumberCode": "263"
+  }
+    ]
+}
